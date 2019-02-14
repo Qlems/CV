@@ -1,15 +1,19 @@
 body{
-  background-color: #defcf9;
+  background-color:#eeeeee;
 }
-
-hr{
-  border-style: none;
-  border-top-style: dotted;
-  border-width: 5px;
-  border-color: grey;
-  height: 2px;
-  width: 5%;
+#mainContainer{
+  width: 1000px;
+  margin: 0 auto;
 }
-h1,h3{
-  color: #15b7b9;
+h1,h2,h3{
+  color: #00adb5;
+}
+img{
+  border-radius: 100%;
+}
+.workExperience{
+  background-color: #fafafa;
+}
+.footer{
+  background-color: #fafafa;
 }
