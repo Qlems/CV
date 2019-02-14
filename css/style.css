@@ -4,6 +4,7 @@ body{
 #mainContainer{
   width: 1000px;
   margin: 0 auto;
+  padding: 5px;
 }
 h1,h2,h3{
   color: #00adb5;
@@ -16,4 +17,11 @@ img{
 }
 .footer{
   background-color: #fafafa;
+}
+hr{
+  width: 10%;
+  border-top-style: dotted ;
+  border-bottom: none;
+  border-top-width: 5px;
+  border-color: #00adb5;
 }
